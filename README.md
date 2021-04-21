@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 # <p scolor="silver"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Madrid Telefónica Student </p>
 
-[![rbeltran's 42 stats](https://badge42.herokuapp.com/api/stats/ldurante?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![ldurante's 42 stats](https://badge42.herokuapp.com/api/stats/ldurante?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
-[![rbeltran's 42Project Score](https://badge42.herokuapp.com/api/project/ldurante/libft)](https://github.com/JaeSeoKim/badge42)
+[![ldurante's 42Project Score](https://badge42.herokuapp.com/api/project/ldurante/libft)](https://github.com/JaeSeoKim/badge42)
+
+![durantecode Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durantecode&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
