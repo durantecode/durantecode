@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 
 [![ldurante's 42Project Score](https://badge42.herokuapp.com/api/project/ldurante/libft)](https://github.com/JaeSeoKim/badge42)
 
-![durantecode Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durantecode&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff)
+### Most used languages!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durantecode&theme=tokyonight)
