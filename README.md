@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=durantecode&theme=tokyonight)
 
 <img align="left" alt="durantecode's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=durantecode&show_icons=true&hide_border=true&theme=tokyonight" />
+
+[website]: https://github.com/durantecode
+[instagram]: https://www.instagram.com/duranteonfire/
+[linkedin]: https://www.linkedin.com/in/luis-durante-rodriguez-bb849b23/
