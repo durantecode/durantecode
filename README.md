@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![ldurante's 42 stats](https://badge42.herokuapp.com/api/stats/ldurante?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
-[![ldurante's 42Project Score](https://badge42.herokuapp.com/api/project/ldurante/libft)](https://github.com/JaeSeoKim/badge42)
+[![ldurante's 42Project Score](https://badge42.herokuapp.com/api/project/ldurante/Libft)](https://github.com/JaeSeoKim/badge42)
 
 ### Most used languages!
 
