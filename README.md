@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # <p scolor="silver"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Madrid Telefónica Student </p>
 
-[![ldurante's 42 stats](https://badge42.herokuapp.com/api/stats/ldurante?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+[![ldurante's 42 stats](https://badge42.herokuapp.com/api/stats/ldurante)](https://github.com/JaeSeoKim/badge42)
 
 ### Most used languages!
 
