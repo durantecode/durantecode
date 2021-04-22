@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# <p scolor="silver"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.42madrid.com%2F&psig=AOvVaw0sA-PasOwtBJtMrSUU3wcI&ust=1619208496702000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCytvDTkvACFQAAAAAdAAAAABAD" width=50> Madrid Telefónica Student </p>
+# <p scolor="silver"> <img src="https://www.google.com/search?q=42+madrid+logo&client=firefox-b-d&sxsrf=ALeKk01qYdB1Jd-0WwubZHWVSO3RL7IkAQ:1619122094868&source=lnms&tbm=isch&sa=X&ved=2ahUKEwix0L_q05LwAhVa8uAKHQXyCPUQ_AUoAXoECAEQAw&biw=1920&bih=955#imgrc=XnIp7noVf71zNM" width=50> Madrid Telefónica Student </p>
 
 [![ldurante's 42 stats](https://badge42.herokuapp.com/api/stats/ldurante)](https://github.com/JaeSeoKim/badge42)
 
