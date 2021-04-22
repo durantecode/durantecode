@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-# <p scolor="silver"> <img src="https://raw.githubusercontent.com/kube/vscode-42header/master/42.png" width=50> Madrid Telefónica Student </p>
+# <p scolor="silver"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.42madrid.com%2F&psig=AOvVaw0sA-PasOwtBJtMrSUU3wcI&ust=1619208496702000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCytvDTkvACFQAAAAAdAAAAABAD" width=50> Madrid Telefónica Student </p>
 
 [![ldurante's 42 stats](https://badge42.herokuapp.com/api/stats/ldurante)](https://github.com/JaeSeoKim/badge42)
 
