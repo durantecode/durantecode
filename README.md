@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ldurante's 42 stats](https://badge42.vercel.app/api/v2/cl39ut85e003009l2dts6pog9/stats?cursusId=21&coalitionId=65)
+![ldurante's 42 stats](https://badge42.vercel.app/api/v2/cl39ut85e003009l2dts6pog9/stats?cursusId=21&coalitionId=65)
 
 ### Most used languages!
 
